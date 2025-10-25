@@ -31,6 +31,7 @@ Before attending the first lecture, make sure you've completed all the essential
 2. [Tools for Creating UI/UX Mockups for Mobile Apps](https://github.com/drshahizan/mobile_apps/blob/main/materials/design%20uiux.md)
 3. [Introduction to Flutter](https://github.com/drshahizan/mobile_apps/blob/main/materials/flutter1.md)
 4. [Your First Flutter App Tutorial](https://github.com/drshahizan/mobile_apps/blob/main/materials/flutter1.md)
+5. [Login and Logout Use Cases](https://github.com/drshahizan/mobile_apps/blob/main/materials/usecase-login-logout.md)
 
 ## Lab
 1. [How to install Flutter on Windows 2025 | Setup Android Studio for Flutter Step by Step](https://youtu.be/mMeQhLGD-og?si=1i2ij4zqe27kEqkn)

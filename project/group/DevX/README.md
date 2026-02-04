@@ -399,7 +399,14 @@ flutter run
 
 ## 📄 Additional Documentation
 
-- [SETUP_COMPLETE.md](SETUP_COMPLETE.md) - Project completion status
+- [SETUP_COMPLETE.md](Project%20Document/SETUP_COMPLETE.md) - Project completion status
+- [DOCUMENTATION_INDEX.md](Project%20Document/DOCUMENTATION_INDEX.md) - Complete documentation index
+- [COMPLETION_REPORT.md](Project%20Document/COMPLETION_REPORT.md) - Project completion report
+- [IMPLEMENTATION_CHECKLIST.md](Project%20Document/IMPLEMENTATION_CHECKLIST.md) - Feature implementation tracking
+- [INTEGRATION_SUMMARY.md](Project%20Document/INTEGRATION_SUMMARY.md) - Firebase integration details
+- [QUICK_REFERENCE.md](Project%20Document/QUICK_REFERENCE.md) - Quick command and API reference
+- [SOFTWARE_REQUIREMENT_SPECIFICATION.md](Project%20Document/SOFTWARE_REQUIREMENT_SPECIFICATION.md) - Complete SRS document
+- [TESTING_GUIDE.md](Project%20Document/TESTING_GUIDE.md) - Comprehensive testing procedures
 
 ## 🤝 Contributing
 

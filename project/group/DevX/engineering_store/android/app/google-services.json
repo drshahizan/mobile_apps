@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097064854171",
+    "project_id": "fnbn-engineering-store",
+    "storage_bucket": "fnbn-engineering-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097064854171:android:fd9ee46446913a7ab2cc3e",
+        "android_client_info": {
+          "package_name": "fnbn.engineering.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJl9mUIoNzP6murOs3fyra6OLi8iqa1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

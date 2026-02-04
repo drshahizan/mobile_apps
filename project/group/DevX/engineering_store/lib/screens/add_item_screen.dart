@@ -188,7 +188,7 @@ class _AddItemScreenState extends State<AddItemScreen> {
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
-            content: Text('📤 Uploading image to Firebase...'),
+            content: Text('📤 Uploading image to Database...'),
             duration: Duration(seconds: 30),
           ),
         );
@@ -239,7 +239,7 @@ class _AddItemScreenState extends State<AddItemScreen> {
         ScaffoldMessenger.of(context).hideCurrentSnackBar();
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
-            content: Text('✅ Image uploaded successfully to Firebase Storage'),
+            content: Text('✅ Image uploaded successfully to Database'),
             duration: Duration(seconds: 2),
           ),
         );

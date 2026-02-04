@@ -15,6 +15,8 @@ dependencies:
   firebase_auth: ^4.19.0
   cloud_firestore: ^4.17.0
   firebase_storage: ^11.6.0
+  pdf: ^3.10.0
+  printing: ^5.10.0
   firebase_app_check: ^0.2.0
   http: ^1.2.0
   google_sign_in: ^6.3.0

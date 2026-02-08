@@ -1,0 +1,3 @@
+[submodule "project/group/NULL/recipe-finder-app"]
+	path = project/group/NULL/recipe-finder-app
+	url = git@github.com:groupnull/recipe-finder.git

@@ -18,12 +18,6 @@ Before attending the first lecture, make sure you've completed all the essential
   
 - 📚 **[Course Information](https://github.com/drshahizan/mobile_apps/blob/main/images/SECJ3623-MAP-CI_space.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
 
-- 📅 **[Weekly Schedule]()**: A week-by-week breakdown of course topics.
-
-- 📝 **[Assignment]()**: View and download current assignments, submission guidelines, and deadlines.
-  
-- 💡 **[Lab Exercise]()**: Engage with exercises designed to complement your coursework and enhance learning.
-
 - 🚀 **[Project Submission](https://github.com/drshahizan/mobile_apps/blob/main/project/readme.md)**: Submit all group project deliverables in the designated submission table.
 
 ## Flutter
